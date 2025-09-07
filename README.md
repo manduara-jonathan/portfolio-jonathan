@@ -20,7 +20,7 @@ Bienvenue sur le code source de mon portfolio personnel. Ce site présente mes c
 
 1. Clonez le dépôt :
    ```bash
-   git clone [URL_DU_DEPOT]
+   git clone https://github.com/manduara-jonathan/portfolio-jonathan.git
    ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur ou utilisez un serveur local.
